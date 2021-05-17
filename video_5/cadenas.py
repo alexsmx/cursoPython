@@ -1,0 +1,5 @@
+print("Hello world <----- \n string")
+print("Hello world <----- \n string\totrostring")
+print("este nombre \"Alex\" quiero imprimirlo entre comillas")
+print("este nombre \"Alex\" quiero imprimirlo entre comillas \\")
+print("este nombre \"Alex\" quiero imprimirlo entre comillas \nnueva línea\\")
